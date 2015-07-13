@@ -1,0 +1,23 @@
+
+#head {
+	font: Arial;
+}
+
+.sonnet {
+	font-family: Tahoma;
+}
+
+.favorite {
+	background-color: red;
+}
+
+.mainbody {
+	max-width: 65%;
+	float: left;
+}
+
+.sidebar {
+	max-width: 30%;
+	float: right;
+}
+	
